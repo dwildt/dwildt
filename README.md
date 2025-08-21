@@ -32,7 +32,7 @@ Através do meu trabalho de mentoria compartilho histórias e conhecimentos adqu
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Linguagens, Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -42,6 +42,9 @@ Através do meu trabalho de mentoria compartilho histórias e conhecimentos adqu
 <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
 <img src="https://img.shields.io/badge/Delphi-CC342D?style=for-the-badge&logo=delphi&logoColor=white" alt="Delphi">
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+<img src="https://img.shields.io/badge/Claude_Code-FF4B00?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude Code">
 
 </div>
 
