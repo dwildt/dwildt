@@ -12,9 +12,9 @@
 
 ## 🚀 Sobre mim
 
-Com quase **30 anos de carreira** (chegando em 2026), desde 2009 atuando em cargos de diretoria de tecnologia (ex **CTO**), ajudo empresas e equipes na evolução de práticas de desenvolvimento de software. Combino metodologias ágeis com práticas de engenharia, sempre priorizando simplicidade e aprendizado contínuo.
+Com quase **30 anos de carreira** (chegando em 2026) em tecnologia, desenvolvendo produtos de software, gerindo projetos, produtos e equipes. Desde 2009 atuando em cargos de diretoria de tecnologia, gestão e produto (exemplo **CIO**, **CPO** e **CTO**). Ajudo empresas e equipes na evolução de processos de desenvolvimento e entrega de software. Combino metodologias ágeis com práticas de engenharia, sempre priorizando simplicidade e aprendizado contínuo.
 
-Através do meu trabalho de mentoria compartilho histórias e conhecimentos adquiridos no caminho da tecnologia.
+Através do meu trabalho de mentoria também compartilho histórias e conhecimentos adquiridos no caminho da tecnologia. E na atuação de sala de aula, combino estes elementos com histórias que trago de projetos e embasamento de teorias importantes que dão forma para a prática diária.  
 
 ---
 
