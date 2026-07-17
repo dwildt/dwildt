@@ -22,11 +22,10 @@ Através do meu trabalho de mentoria também compartilho histórias e conhecimen
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dwildt&theme=dark&show_icons=true&hide_border=true&count_private=true)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=dwildt&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)](https://github-stats-extended.vercel.app/api?username=dwildt&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage,prs_commented,prs_reviewed,issues_commented&show_icons=true&include_all_commits=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dwildt&theme=dark&layout=compact&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dwildt&theme=dark&hide_border=true)
+
 
 </div>
 
